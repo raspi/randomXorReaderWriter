@@ -8,4 +8,4 @@ Reads from reader and outputs two randomly xor'ed bytes and vice versa
     
 ## Example
 
-See [_examples](_examples/) directory
+See [_example](_example/) directory
